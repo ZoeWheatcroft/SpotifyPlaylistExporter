@@ -1,3 +1,5 @@
+non-functional atm, in progress
+
 **Why?** 
 I have over a hundred Spotify playlists and thousands of listening hours. In order to preserve my playlists and give me the ability to move to a different music service, I've decided to make this tool that exports all of an account's playlists to a local database.  
 **How?** 
